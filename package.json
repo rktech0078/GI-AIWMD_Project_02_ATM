@@ -1,0 +1,28 @@
+{
+  "name": "rktech0078-aiwmd_project_02_atm",
+  "version": "1.0.0",
+  "description": "There is an ATM machine by typescript",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rktech0078/GI-AIWMD_Project_02_ATM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rktech0078/GI-AIWMD_Project_02_ATM/issues"
+  },
+  "homepage": "https://github.com/rktech0078/GI-AIWMD_Project_02_ATM#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
